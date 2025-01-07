@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Increment_Decrement_button_by_reactJs/static/css/main.7b1db955.css",
+    "main.js": "/Increment_Decrement_button_by_reactJs/static/js/main.56fad432.js",
+    "static/js/488.8cc664db.chunk.js": "/Increment_Decrement_button_by_reactJs/static/js/488.8cc664db.chunk.js",
+    "index.html": "/Increment_Decrement_button_by_reactJs/index.html",
+    "main.7b1db955.css.map": "/Increment_Decrement_button_by_reactJs/static/css/main.7b1db955.css.map",
+    "main.56fad432.js.map": "/Increment_Decrement_button_by_reactJs/static/js/main.56fad432.js.map",
+    "488.8cc664db.chunk.js.map": "/Increment_Decrement_button_by_reactJs/static/js/488.8cc664db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b1db955.css",
+    "static/js/main.56fad432.js"
+  ]
+}
